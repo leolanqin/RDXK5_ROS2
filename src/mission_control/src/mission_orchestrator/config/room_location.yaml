@@ -1,0 +1,12 @@
+# config/room_location.yaml
+"6-2":
+  frame_id: "map"
+  x: 15.43
+  y: 6.22
+  yaw: 0.01
+
+"4-0":
+  frame_id: "map"
+  x: 13.04
+  y: 8.52
+  yaw:  0.0

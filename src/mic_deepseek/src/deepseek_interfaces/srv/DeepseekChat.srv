@@ -1,0 +1,6 @@
+string position_text #语音转换为文字后的位置文本
+---
+std_msgs/Header header
+bool success
+int16 floor
+int32 room
